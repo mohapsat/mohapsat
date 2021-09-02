@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am a **product leader** and **marketing technologist** with experience in driving business transformation through the development of omni-channel Marketing stacks and supporting customer engagement programs.
+
+Find me on [Linkedin](https://www.linkedin.com/in/satyamadhav/), [Twitter](https://twitter.com/mohapsat) and GitHub.
+
+
 <!--
 **mohapsat/mohapsat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
